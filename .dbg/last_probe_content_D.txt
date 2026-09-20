@@ -1,0 +1,266 @@
+{
+  "city": "北京",
+  "start_date": "2025-11-03",
+  "end_date": "2025-11-05",
+  "days": [
+    {
+      "date": "2025-11-03",
+      "day_index": 0,
+      "description": "第1天：天安门广场-景山公园-北海公园，轻松适应京城节奏，感受中轴线与皇家园林。",
+      "transportation": "地铁1号线+步行",
+      "accommodation": "经济型酒店",
+      "hotel": {
+        "name": "汉庭酒店（北京王府井店）",
+        "address": "北京市东城区王府井大街附近",
+        "location": {
+          "longitude": 116.411,
+          "latitude": 39.916
+        },
+        "price_range": "300-500元",
+        "rating": "4.5",
+        "distance": "距离天安门广场约2公里",
+        "type": "经济型酒店",
+        "estimated_cost": 400
+      },
+      "attractions": [
+        {
+          "name": "天安门广场",
+          "address": "北京市东城区东长安街",
+          "location": {
+            "longitude": 116.397128,
+            "latitude": 39.916527
+          },
+          "visit_duration": 60,
+          "description": "北京城市中心广场，可参观人民英雄纪念碑，外观人民大会堂和中国国家博物馆。",
+          "category": "城市广场",
+          "ticket_price": 0
+        },
+        {
+          "name": "景山公园",
+          "address": "北京市西城区景山西街44号",
+          "location": {
+            "longitude": 116.39008,
+            "latitude": 39.92533
+          },
+          "visit_duration": 60,
+          "description": "故宫北侧皇家园林，登万春亭可俯瞰故宫全景和北京中轴线。",
+          "category": "公园",
+          "ticket_price": 2
+        },
+        {
+          "name": "北海公园",
+          "address": "北京市西城区文津街1号",
+          "location": {
+            "longitude": 116.383022,
+            "latitude": 39.925535
+          },
+          "visit_duration": 90,
+          "description": "皇家园林，白塔和太液池是标志景观，可沿湖散步或乘船游览。",
+          "category": "公园",
+          "ticket_price": 10
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "name": "老北京早餐店",
+          "description": "推荐豆腐脑、包子和咸菜，暖身又实惠。",
+          "estimated_cost": 30
+        },
+        {
+          "type": "lunch",
+          "name": "北海公园附近炸酱面",
+          "description": "品尝老北京炸酱面配小菜。",
+          "estimated_cost": 50
+        },
+        {
+          "type": "dinner",
+          "name": "王府井小吃街",
+          "description": "夜晚逛王府井，品尝炒肝、爆肚等北京小吃。",
+          "estimated_cost": 80
+        }
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "day_index": 1,
+      "description": "第2天：故宫博物院-恭王府-什刹海/南锣鼓巷，深度感受皇家与胡同文化。",
+      "transportation": "公交+地铁+步行",
+      "accommodation": "经济型酒店",
+      "hotel": {
+        "name": "汉庭酒店（北京王府井店）",
+        "address": "北京市东城区王府井大街附近",
+        "location": {
+          "longitude": 116.411,
+          "latitude": 39.916
+        },
+        "price_range": "300-500元",
+        "rating": "4.5",
+        "distance": "距离天安门广场约2公里",
+        "type": "经济型酒店",
+        "estimated_cost": 400
+      },
+      "attractions": [
+        {
+          "name": "故宫博物院",
+          "address": "北京市东城区景山前街4号",
+          "location": {
+            "longitude": 116.397026,
+            "latitude": 39.918058
+          },
+          "visit_duration": 180,
+          "description": "明清两代皇家宫殿，世界文化遗产，沿中轴线游览三大殿、后三宫和御花园。",
+          "category": "历史遗迹",
+          "ticket_price": 60
+        },
+        {
+          "name": "恭王府",
+          "address": "北京市西城区前海西街17号",
+          "location": {
+            "longitude": 116.3862,
+            "latitude": 39.9367
+          },
+          "visit_duration": 120,
+          "description": "清代王府建筑群，包含府邸和花园，曾为和珅宅邸，是保存较完整的王府。",
+          "category": "历史遗迹",
+          "ticket_price": 40
+        },
+        {
+          "name": "什刹海/南锣鼓巷",
+          "address": "北京市西城区地安门西大街/东城区南锣鼓巷",
+          "location": {
+            "longitude": 116.385,
+            "latitude": 39.94
+          },
+          "visit_duration": 90,
+          "description": "老北京胡同和四合院聚集区，可体验胡同文化、特色小店和酒吧街。",
+          "category": "历史街区",
+          "ticket_price": 0
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "name": "酒店附近早餐",
+          "description": "推荐油条、豆浆和茶叶蛋。",
+          "estimated_cost": 30
+        },
+        {
+          "type": "lunch",
+          "name": "故宫餐厅简餐",
+          "description": "故宫游览途中简餐，推荐牛肉面和盖饭。",
+          "estimated_cost": 50
+        },
+        {
+          "type": "dinner",
+          "name": "什刹海附近涮肉",
+          "description": "品尝老北京铜锅涮肉，搭配芝麻酱。",
+          "estimated_cost": 80
+        }
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "day_index": 2,
+      "description": "第3天：颐和园-圆明园，游览大型皇家园林与历史遗迹，结束北京之旅。",
+      "transportation": "地铁4号线+公交/步行",
+      "accommodation": "经济型酒店",
+      "hotel": {
+        "name": "汉庭酒店（北京王府井店）",
+        "address": "北京市东城区王府井大街附近",
+        "location": {
+          "longitude": 116.411,
+          "latitude": 39.916
+        },
+        "price_range": "300-500元",
+        "rating": "4.5",
+        "distance": "距离天安门广场约2公里",
+        "type": "经济型酒店",
+        "estimated_cost": 400
+      },
+      "attractions": [
+        {
+          "name": "颐和园",
+          "address": "北京市海淀区新建宫门路19号",
+          "location": {
+            "longitude": 116.2755,
+            "latitude": 39.9998
+          },
+          "visit_duration": 180,
+          "description": "大型皇家园林，以昆明湖和万寿山为主体，可游览长廊、佛香阁和十七孔桥。",
+          "category": "皇家园林",
+          "ticket_price": 20
+        },
+        {
+          "name": "圆明园",
+          "address": "北京市海淀区清华西路28号",
+          "location": {
+            "longitude": 116.30443,
+            "latitude": 40.0082
+          },
+          "visit_duration": 120,
+          "description": "清代皇家园林遗址，包含西洋楼遗址和福海景区，具有重要历史意义。",
+          "category": "遗址公园",
+          "ticket_price": 25
+        }
+      ],
+      "meals": [
+        {
+          "type": "breakfast",
+          "name": "酒店附近早餐",
+          "description": "推荐小米粥、包子和煮鸡蛋。",
+          "estimated_cost": 30
+        },
+        {
+          "type": "lunch",
+          "name": "颐和园周边餐厅",
+          "description": "游览颐和园后在周边餐厅用午餐，推荐家常炒菜。",
+          "estimated_cost": 50
+        },
+        {
+          "type": "dinner",
+          "name": "北京烤鸭简餐",
+          "description": "品尝北京烤鸭套餐，为行程收尾。",
+          "estimated_cost": 80
+        }
+      ]
+    }
+  ],
+  "weather_info": [
+    {
+      "date": "2025-11-03",
+      "day_weather": "晴",
+      "night_weather": "晴",
+      "day_temp": 16,
+      "night_temp": 5,
+      "wind_direction": "北风",
+      "wind_power": "1-3级"
+    },
+    {
+      "date": "2025-11-04",
+      "day_weather": "多云",
+      "night_weather": "多云",
+      "day_temp": 15,
+      "night_temp": 6,
+      "wind_direction": "南风",
+      "wind_power": "1-3级"
+    },
+    {
+      "date": "2025-11-05",
+      "day_weather": "晴",
+      "night_weather": "晴",
+      "day_temp": 14,
+      "night_temp": 4,
+      "wind_direction": "北风",
+      "wind_power": "1-3级"
+    }
+  ],
+  "overall_suggestions": "11月初北京早晚温差较大，白天最高约14-16度，夜间降至4-6度，建议穿羽绒服、毛衣并注意防风保暖。故宫、恭王府等热门景点建议提前预约门票，并避开周一闭馆日。市内出行优先使用地铁和公交，可下载亿通行APP刷码乘车。天安门广场、景山公园、北海公园之间距离较近，可步行串联游览。行程中注意保持体力，预留充足时间参观故宫和颐和园。",
+  "budget": {
+    "total_attractions": 157,
+    "total_hotels": 1200,
+    "total_meals": 480,
+    "total_transportation": 200,
+    "total": 2037
+  }
+}
